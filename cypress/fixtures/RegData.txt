@@ -1,0 +1,45 @@
+-----------------------------------
+email:      Xow2tRaAqUFe7ec@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      hNxrCGxBQ8H9Bfj@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      gLCoySjzILsN8FJ@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      vompFivdr0rxBCH@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      c0EzbkRm8LGdmVz@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      dD0bGedUc5koBKA@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      XfdAxWfz33i1vND@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      FaELPtWcFbEgMHf@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
+-----------------------------------
+email:      JvXGJP1D9jymfWi@yopmail.com
+password:   CyTest123@
+
+   -> User Successfully Registered!
